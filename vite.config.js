@@ -1,7 +1,8 @@
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: './',
+  base: '/Sistem-Manajemen-UMKM/',
+
   build: {
     outDir: 'dist',
     emptyOutDir: true,
